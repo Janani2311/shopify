@@ -3,6 +3,7 @@ SHOPIFY - This is a simple e-commerce UI with a functionality of adding items to
         - The cart count should be increased while clicking "Add to Cart" button and decreased while clicking "Remove from cart" button.
 
         - I have created multiple reusable components - Header, Navbar, Card, Footer.
+        - Cards are created in a dynamic manner.
         - Achieved the functionality using HOOK concept UseState to rerender the components.
 
 
